@@ -1,5 +1,3 @@
-# login_douban
-Config files for my GitHub profile.
 login the douban and get key cookie, there are two choice to do it(session and selenium)：
 session method: to login douban with no verify;
     1：session.get status;
